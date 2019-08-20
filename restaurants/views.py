@@ -10,6 +10,7 @@ def restaurant_list(request):
 
     	{"restaurants_name":"BackYard","food_type":"International"},
     	{"restaurants_name":"Mcdonalds","food_type":"Burger"},
+    	{"restaurants_name":"PF Changs","food_type":"Asian"},
     	{"restaurants_name":"PF Changs","food_type":"Asian"}
     	]
     }
